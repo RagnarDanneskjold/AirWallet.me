@@ -1,6 +1,6 @@
-# bkchain.org
+# AirWallet.me
 
-Blockchain explorer and wallet.
+Client-side web wallet & blockexplorer for Bitcoin, Litecoin, Dogecoin, and PeerCoin using bkchain's incredible framework and api
 
 ## Features:
 * Browse blocks, transactions, etc...
@@ -9,20 +9,20 @@ Blockchain explorer and wallet.
 * Client-side and server-side versions
 * Wallet (electrum deterministic)
 
-Note: Search doesn't work yet.
 
 ## How to use
 
 ### Client-side version
 
 * Checkout source
-* Open bkchain.html in a browser
+* Open index.html in a browser
 
 ### Server-side version
 
-Note: currently non-functional, some features are missing.
 
 Requirements:
 * Node.js
 
 TODO
+
+Colonize Shibas on the Moon

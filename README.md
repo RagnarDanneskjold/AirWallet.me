@@ -1,6 +1,6 @@
 # AirWallet.me
 
-Client-side web wallet & blockexplorer for Bitcoin, Litecoin, Dogecoin, and PeerCoin using bkchain's incredible framework and api
+Client-side web wallet and blockexplorer for Bitcoin, Litecoin, Dogecoin, and PeerCoin using bkchain API, carbon/electrum-type seed generation, JSON send/getBalance
 
 ## Features:
 * Browse blocks, transactions, etc...

@@ -25,4 +25,4 @@ Requirements:
 
 TODO
 
-Colonize Shibas on the Moon
+Colonize Shibas on Moon
